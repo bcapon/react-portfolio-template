@@ -12,8 +12,8 @@ function Project() {
         <h1>Featured Projects</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://github.com/bcapon/statistical-programming/blob/main/projects/project2/proj2.r" target="_blank" rel="noreferrer"><img src={covid} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/bcapon/statistical-programming/blob/main/projects/project2/proj2.r" target="_blank" rel="noreferrer"><h2>COVID-19 Project</h2></a>
+                <a href="https://github.com/bcapon/statistical-programming/tree/main/projects/epidemiology" target="_blank" rel="noreferrer"><img src={covid} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/bcapon/statistical-programming/tree/main/projects/epidemiology" target="_blank" rel="noreferrer"><h2>COVID-19 Project</h2></a>
                 <p>
                     This R project used NHS data on death counts during the first wave of the 2020 COVID-19 pandemic to 
                     predict when individuals in England first contracted the disease. To do this,
@@ -24,8 +24,8 @@ function Project() {
                 </p>
             </div>
             <div className="project">
-                <a href="https://github.com/bcapon/ucas-analysis/blob/main/code.R" target="_blank" rel="noreferrer"><img src={ucas} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/bcapon/ucas-analysis/blob/main/code.R" target="_blank" rel="noreferrer"><h2>Bayesian Analysis of UCAS Data</h2></a>
+                <a href="https://github.com/bcapon/ucas-analysis" target="_blank" rel="noreferrer"><img src={ucas} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/bcapon/ucas-analysis" target="_blank" rel="noreferrer"><h2>Bayesian Analysis of UCAS Data</h2></a>
                 <p>
                     Student satisfaction is a significant metric in higher education, influencing institutional rankings, funding, and policy decisions.
                     This R project analyses data from 116 British universities, sourced from The Guardian University Guide Ranking 2025 and the 2022 UCAS Equality Report, 

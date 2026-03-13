@@ -71,7 +71,7 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faDatabase} size="3x"/>
-                    <h3>Data Communication & Interpretation</h3>
+                    <h3>Data Communication</h3>
                     {/*<p>
                         Strong ability and experienced in communicating complex analytical results clearly to both technical and non-technical audiences. Skilled in creating visualisations using a variety of software and reports that support data-driven decision.
                     </p> */}

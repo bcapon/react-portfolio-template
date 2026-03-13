@@ -70,11 +70,10 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faUniversity} />}
           >
-            <h3 className="vertical-timeline-element-title">MSc Statistics with Data Science, University of Edinburgh</h3>
+            <h3 className="vertical-timeline-element-title">MSc Statistics with Data Science (Distinction), University of Edinburgh</h3>
             <p>
               <li>
-                Achieved a Distinction in taught modules (average: 79%) with the second research project ongoing
-              </li>
+                Achieved a Distinction in both taught modules (average: 79%) and research module (average: 79%)              </li>
               <li>
                 Modules included: Bayesian Data Analysis (87%), Biostatistics, Extended Statistical Programming (81%), Generalised Regression Models (85%), Incomplete Data Analysis, and Machine Learning in Python
               </li>
@@ -85,7 +84,7 @@ function Timeline() {
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="Nov 2023 - Sep 2024"
+            date="Sep 2023 - Sep 2024"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
@@ -96,7 +95,7 @@ function Timeline() {
                 Designed and implemented tailored lessons for 20+ students per week, for students up to undergraduate level
               </li>
               <li>
-                Demonstrated patience and strong communication skills with over 500 hours of tutoring
+                Demonstrated patience and strong communication skills with over 500 hours of tutoring on Tutorful
               </li>
               <li>
                 Consistently rated highly with six 5-star <a href="https://tutorful.co.uk/tutors/54ol5eyq">reviews</a>, with one student achieving 99% in their final Physics exam   

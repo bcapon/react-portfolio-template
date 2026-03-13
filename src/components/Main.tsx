@@ -14,7 +14,7 @@ function Main() {
             <a href="https://www.linkedin.com/in/bcapon/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>Benjamin Capon</h1>
-          <p>Statistics with Data Science MSc Student</p>
+          <p>Statistics with Data Science MSc Graduate</p>
           <div className="mobile_social_icons">
             <a href="https://github.com/bcapon" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com/in/bcapon/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
